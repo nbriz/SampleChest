@@ -4,15 +4,8 @@ SampleChest v1.1
 SampleChest v1.1 is critical artware [softwaer+art] + a creative piracy tool for creating video sample libraries by ripping videos from today’s richest AV cultural repository, YouTube. SampleChest v1.1 is distributed under the copy&lt;it&gt;right license, copying/sharing is encouraged/appreciated. 
 * * * * 
 
-<code>\n
-    /***************************************\
-    *                                      *
-    *         SAMPLE CHEST v1.1            *
-    *     (ɔ) 2010-12 by Nick Briz         *  
-    *        http://nickbriz.com           *
-    *    http://piraticalpractices.net     *
-    *                                      *
-    \***************************************/
+<code>
+ SAMPLE CHEST v1.1  ///// (ɔ) 2010-12 by Nick Briz ///// http://nickbriz.com ///// http://piraticalpractices.net
 </code>
 
 #### "[...] it’s okay to copy! Believe in the process of copying as much as you can; with all your heart is a good place to start – get into it as straight and honestly as possible. Copying is as good (I think better from this vector-view) as any other way of getting ‚’there.’ [...]" —Phil Morton [COPY&lt;IT&gt;RIGHT]
@@ -53,7 +46,7 @@ SampleChest was composed using Max/MSP + [this command line project](https://git
 
 4. copy the [youtube-dl.sh](http://rg3.github.com/youtube-dl/) script into the "video" folder
 
-5. then navigate into the 'support' directory, then into the 'interfaces' dirctory, and replace the maxinterface.json file with the one from this repo
+5. then navigate into the 'support' directory, then into the 'interfaces' dirctory, and replace the maxinterface.json file with the one from this repo.
 
 [NOTE] at this point the app and the patch should run fine from the desktop and other folders, however if the app is too far away from the root dir it will not work. If there is over 50 characters in the path between the root dir and the app, it will NOT work. 
 
